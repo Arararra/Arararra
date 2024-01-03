@@ -14,4 +14,4 @@
  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 
  <h3 align="left">Statistics:</h3> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arararra&show_icons=true&locale=en&layout=compact" alt="arararra" /> <img src="https://github-readme-stats.vercel.app/api?username=arararra&show_icons=true&locale=en" alt="arararra" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arararra&" alt="arararra" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arararra&show_icons=true&locale=en&layout=compact" alt="arararra" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arararra&" alt="arararra" /> </p>
